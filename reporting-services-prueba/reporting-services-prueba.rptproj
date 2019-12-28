@@ -52,6 +52,7 @@
   <ItemGroup>
     <Report Include="Ventas Anuales.rdl" />
     <Report Include="Ventas Cliente.rdl" />
+    <Report Include="Ventas Clientes Prueba.rdl" />
     <Report Include="Ventas Empleado.rdl" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Reporting Services\Microsoft.ReportingServices.MSBuilder.targets" />
